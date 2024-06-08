@@ -1,0 +1,11 @@
+/LSA64
+/bin
+/include
+/lib
+/share
+*.mp4
+*.pkl
+/data
+/csv
+/models
+
