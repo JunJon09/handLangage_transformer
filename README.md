@@ -1,0 +1,2 @@
+# handLangage_transformer
+Transformerを用いた孤立型手話認識(一つの手話を行っている手話映像の手話認識)
